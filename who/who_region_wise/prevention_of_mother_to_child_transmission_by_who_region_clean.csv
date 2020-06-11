@@ -1,0 +1,8 @@
+WHO Region,Received Antiretrovirals,Needing antiretrovirals,Percentage Recieved,Needing antiretrovirals_median,Needing antiretrovirals_min,Needing antiretrovirals_max,Percentage Recieved_median,Percentage Recieved_min,Percentage Recieved_max
+Global,1 071 000,1300000[980000-1600000],82[62-95],1300000,980000,,82,62,
+Africa,987 000,1200000[860000-1400000],85[63-95],1200000,860000,,85,63,
+Americas,27 700,34000[27000-41000],81[66-95],34000,27000,,81,66,
+South-East Asia,23 300,42000[34000-56000],55[45-73],42000,34000,,55,45,
+Europe,No data,Nodata,Nodata,,,,,,
+Eastern Mediterranean,1400,7700[4900-12000],18[11-27],7700,4900,,18,11,
+Western Pacific,8900,13000[11000-16000],68[59-81],13000,11000,,68,59,
